@@ -38,3 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejaskh3&show_icons=true&locale=en" alt="tejaskh3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaskh3&" alt="tejaskh3" /></p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=legendarykamal&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="kamal' profile views" />
+</p>
