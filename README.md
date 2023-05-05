@@ -39,5 +39,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaskh3&" alt="tejaskh3" /></p>
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=legendarykamal&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="kamal' profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tejaskh3=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="Tejas' profile views" />
 </p>
