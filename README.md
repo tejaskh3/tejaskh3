@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas</h1>
-<h3 align="center">Full Stack MERN Developer and A Blockchain Enthusiast</h3>
+<h3 align="center">Full Stack Developer. </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaskh3" alt="tejaskh3" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My portfolio website**
 
-- 🌱 I’m currently learning **Blockchain development**
+- 🌱 I’m currently learning **NEXTJS**
 
 - 👯 I’m looking to collaborate on **open Source projects**
 
