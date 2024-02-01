@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/taashuu_" target="blank"><img src="https://img.shields.io/twitter/follow/taashuu_?logo=twitter&style=for-the-badge" alt="taashuu_" /></a> </p>
 
-- 🔭 I’m currently working on **My portfolio website**
-
-- 🌱 I’m currently learning **NEXTJS**
-
 - 👯 I’m looking to collaborate on **open Source projects**
 
 - 🤝 I’m looking for help with **open Source projects**
