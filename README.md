@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://dev.to/https://dev.to/tejaskh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/tejaskh3" height="30" width="40" /></a>
 <a href="https://twitter.com/taashuu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taashuu_" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/tejas-nil-1a2998196/](https://www.linkedin.com/in/tejas-1a2998196/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejas-nil-1a2998196/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tejas-1a2998196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejas-nil-1a2998196/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tejaskh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejaskh3" height="30" width="40" /></a>
 <a href="https://discord.gg/Tejas#4201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tejas#4201" height="30" width="40" /></a>
 </p>
