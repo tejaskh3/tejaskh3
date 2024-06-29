@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **open Source projects**
 
-- 🤝 I’m looking for help with **open Source projects**
-
 - 📫 How to reach me **tejaskh3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
